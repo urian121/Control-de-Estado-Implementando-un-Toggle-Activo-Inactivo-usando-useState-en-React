@@ -4,7 +4,7 @@
 
 #### Resultado final
 
-![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/toggle-switch.png)
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/useState-activo-inactivo.png)
 
 ### Expresiones de Gratitud 🎁
 
